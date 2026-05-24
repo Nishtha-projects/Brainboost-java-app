@@ -14,8 +14,5 @@ BrainBoost is an AI-powered Java learning application designed to help beginners
 - Swing GUI
 - OOPs
 
-## 📸 Screenshot
-![BrainBoost](Brainboost.png)
-
 ## 👩‍💻 Developed By
 Nishtha Garg

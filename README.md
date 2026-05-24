@@ -1,2 +1,21 @@
-# Brainboost-java-app
-AI-powered Java learning app where users can understand any Java topic using AI assistance, quizzes, and quick notes.
+# BrainBoost - Java Learning App 🚀
+
+BrainBoost is an AI-powered Java learning application designed to help beginners learn Java in an interactive and smart way.
+
+## ✨ Features
+- Daily Java Concepts
+- Java Quiz
+- Quick Revision Notes
+- AI Java Notes
+- Interactive GUI
+
+## 🛠 Tech Stack
+- Java
+- Swing GUI
+- OOPs
+
+## 📸 Screenshot
+![BrainBoost](bp.jpg)
+
+## 👩‍💻 Developed By
+Nishtha Garg
